@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yeechilau
-- 👀 I’m interested in data field and machine learning 
 - 🌱 I’m currently learning data engineering in UTM
 - 📫 Any enquires can dm on my email lauchi@graduate.utm 
 
